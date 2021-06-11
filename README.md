@@ -11,4 +11,5 @@ Selection of various Python scripts/snippets I've used in my public and private 
 - **mongodb** - uses `pymongo` driver for communicating with a mongodb instance
   - *finder* and *seeder* scripts are available, *finder* showcases fetching data from the database, *seeder* showcases a case of seeding contents of a textfile into the database
 - **watson** - snippets for IBM Watson Text-To-Speech engine using the *IBM Cloud SDK*
-- **api** snippets for interacting with APIs
+- **api** - snippets for interacting with APIs
+- **webscraping** - snippets for webscraping with *Selenium* and *Beautifulsoap*
