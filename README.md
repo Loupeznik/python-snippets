@@ -13,3 +13,4 @@ Selection of various Python scripts/snippets I've used in my public and private 
 - **watson** - snippets for IBM Watson Text-To-Speech engine using the *IBM Cloud SDK*
 - **api** - snippets for interacting with APIs
 - **webscraping** - snippets for webscraping with *Selenium* and *Beautifulsoap*
+- **fb-chatbot** - snippets for settings up a chatbot for Facebook's Messenger platform
