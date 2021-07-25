@@ -23,7 +23,7 @@ def sendFile():
 # Send a random quote from a list of quotes
 # It might be a good idea to pull such data from a database,
 # for example a MongoDB instance (snippets for such use case)
-# are awailable in the /mongodb directory
+# are available in the /mongodb directory
 def sendQuote():
     quotes = [
         'Quote one',
