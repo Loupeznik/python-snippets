@@ -1,4 +1,4 @@
-import requests
+import request
 
 '''
 Makes a request to an API endpoint
@@ -13,7 +13,7 @@ headers = {
   'Authorization': 'token' # Specify an access token if needed
 }
 
-response = requests.request("GET", url, headers=headers, data=payload)
+response = request.request("GET", url, headers=headers, data=payload)
 
 print('Status: {}'.format(response.status_code))
 print(response)
